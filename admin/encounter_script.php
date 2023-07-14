@@ -5,7 +5,7 @@ $connection = db_connect();
 
 	if ( ! $connection ) 
         {
-		print( "cannot connect to database" );
+		print( "Cannot connect to the database." );
 		exit;
 	}
 //$encounter_id = $_POST['encounter_id'];
