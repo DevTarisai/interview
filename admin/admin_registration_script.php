@@ -5,7 +5,7 @@ $connection = db_connect();
 
 	if ( ! $connection ) 
         {
-		print( "Cannot connect to the database" );
+		print( "Cannot connect to the database." );
 		exit;
 	}
 //$patient_fnanme = $_POST['patient_fname'];

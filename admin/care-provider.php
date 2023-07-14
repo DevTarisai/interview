@@ -39,34 +39,34 @@
          <form action="care-provider-script.php" method="post" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
           <tr>
-            <td><h6>Care Provider Registration Number</h6></td>
+            <td><h6>Care Provider Registration Number:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Care Provider Registration Number" name="reg_no" /></td>
           </tr>
           
            <tr>
-            <td><h6>Care Provider Name</h6></td>
+            <td><h6>Care Provider Name:</h6></td>
             <td><span class="ehrinputname"><input type="text" class="ehrinput" placeholder="First Name" name="care_provider_fname" /></span>
         		<span class="ehrinputname2"><input type="text" class="ehrinput" placeholder="Last Name"  name="care_provider_lname" /></span></td>
           </tr>
           
            <tr>
-            <td><h6>Care Provider Address Type</h6></td>
+            <td><h6>Care Provider Address Type:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Care Provider Address Type" name="care_provider_address_type" /></td>
           </tr>
            <tr>
-            <td><h6>Care Provider Address Line 1</h6></td>
+            <td><h6>Care Provider Address Line 1:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Care Provider Address Line 1" name="care_provider_address_line_1" /></textarea></td>
           </tr>
            <tr>
-            <td><h6>Care Provider Address Line 2</h6></td>
+            <td><h6>Care Provider Address Line 2:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Care Provider Address Line 2" name="care_provider_address_line_2" /></textarea></td>
           </tr>
            <tr>
-            <td><h6>Care Provider City/Town/ Village/ Police Station</h6></td>
+            <td><h6>Care Provider City / Town:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Contact Person City/Town/Village/ Police" name="care_provider_city"/></td>
           </tr>
            <tr>
-            <td><h6>Care Provider Province</h6></td>
+            <td><h6>Care Provider Province:</h6></td>
             <td><select class="ehrinput4" name="care_provider_district">
             		<option>Bulawayo</option>
                     <option>Harare</option>

@@ -53,14 +53,14 @@
 
           <p><h3><strong> Admin Account</strong></h3></p>
             <td><h6>Email Address</h6></td>
-            <td><input type="text" class="ehrinput2" placeholder="Email Address" name="email_address" /></td>
+            <td><input type="text" class="ehrinput2" placeholder="Enter your email Address" name="email_address" /></td>
           </tr>
            
 
 
           <tr>
             <td><h6>Password</h6></td>
-            <td><input type="password" class="ehrinput2" placeholder="Password" id="password" name="password" /></td>
+            <td><input type="password" class="ehrinput2" placeholder="Enter your password" id="password" name="password" /></td>
           </tr>
 
           
