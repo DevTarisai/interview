@@ -128,7 +128,7 @@ Province:</h6></td>
           
 
           <tr>
-            <td><h6>Emergency Contact Person Phone Type</h6></td>
+            <td><h6>Emergency Contact Person Phone Type:</h6></td>
             <td><select class="ehrinput4" name="emergency_contact_person_phone_type" >
                 <option>Landline</option>
                     <option>Mobile</option>
@@ -137,11 +137,11 @@ Province:</h6></td>
           </tr>
 
           <tr>
-            <td><h6>Emergency Contact Person Phone Number</h6></td>
+            <td><h6>Emergency Contact Person Phone Number:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Emergency Contact Person Phone Number" name="emergency_contact_person_phone_number"  /></td>
           </tr>
           <tr>
-            <td><h6>Emergency Person Email ID</h6></td>
+            <td><h6>Emergency Person Email ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Emergency Person Email ID" name="emergency_contact_person_email_id" /></td>
           </tr>
           
