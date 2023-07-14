@@ -33,55 +33,55 @@
         		<span class="ehrinputname2"><input type="text" class="ehrinput" placeholder="Last Name" /></span>----------->
                 
                 
-		<span class="patient-inspan">Hospitalization History</span>
+		<span class="patient-inspan">Hospitalisation History</span>
                 
       
          <form action="hospitalization_script.php" method="post" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
           <tr>
-            <td><h6>Hospital ID</h6></td>
+            <td><h6>Hospital ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Hospital ID" name="hos_id" /></td>
           </tr>
           
            <tr>
-            <td><h6>Hospital Name</h6></td>
+            <td><h6>Hospital Name:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Hospital Name" name="hos_name" /></td>
           </tr>
            <tr>
-            <td><h6>Hospital Address</h6></td>
+            <td><h6>Hospital Address:</h6></td>
             <td><textarea class="ehrinput2" placeholder="Hospital Address" name="hos_add" /></textarea></td>
           </tr>
           <tr>
-            <td><h6>Patient ID</h6></td>
+            <td><h6>Patient ID:</h6></td>
             <td><textarea class="ehrinput2" placeholder="Patient ID" name="patient_id" /></textarea></td>
           </tr>
            <tr>
-            <td><h6>Insure</h6></td>
+            <td><h6>Insurer (Medical AID):</h6></td>
             <td><textarea class="ehrinput2" placeholder="Insure" name="insure" /></textarea></td>
           </tr>
           
           
            <tr>
-            <td><h6>Diagnosis</h6></td>
+            <td><h6>Diagnosis:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Diagnosis" name="diagnosis" /></td>
           </tr>
            
            
            <tr>
-            <td><h6>Discharg Summery</h6></td>
-            <td><input type="text" class="ehrinput2" placeholder="Discharge Summery" name="discharge_summery"/></td>
+            <td><h6>Discharg Summary:</h6></td>
+            <td><input type="text" class="ehrinput2" placeholder="Discharge Summary" name="discharge_summery"/></td>
           </tr> 
           <tr>
-            <td><h6>Date Of Hospitalization</h6></td>
+            <td><h6>Date Of Hospitalisation:</h6></td>
             <td><input type="date" class="ehrinput2" placeholder="Date Of Hospitalization" name="hospitalization_date"/></td>
           </tr>
 
           <tr>
-            <td><h6>Date of Release </h6></td>
+            <td><h6>Date Discharged: </h6></td>
             <td><input type="date" class="ehrinput2" placeholder="Date of Release" name="release_date"/></td>
           </tr>
           <tr>
-            <td><h6>Billing Amount</h6></td>
+            <td><h6>Billing Amount:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Billing Amount" name="billing_amount" /></td>
           </tr>
 

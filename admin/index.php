@@ -40,14 +40,14 @@
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
            
            <tr>
-            <td><h6>Email</h6></td>
-            <td><input type="text" class="ehrinput2" placeholder="Email " name="email" /></td>
+            <td><h6>Email Address:<Address></Address></h6></td>
+            <td><input type="text" class="ehrinput2" placeholder="Enter your email address" name="email" /></td>
           </tr>
 
 
            <tr>
-            <td><h6>password</h6></td>
-            <td><input type="password" class="ehrinput2" placeholder="password" name="password" /></td>
+            <td><h6>Password:</h6></td>
+            <td><input type="password" class="ehrinput2" placeholder="Enter your password" name="password" /></td>
           </tr>
           
          

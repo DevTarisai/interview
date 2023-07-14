@@ -47,23 +47,23 @@
           
           
           <tr>
-            <td><h6>Diagnosis</h6></td>
+            <td><h6>Diagnosis:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Diagnosis"  name="diagnosis" /></td>
           </tr>
           
           <tr>
-            <td><h6>Vital</h6></td>
+            <td><h6>Vital:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Vital"  name="vital" /></td>
           </tr>
           
           
           <tr>
-            <td><h6>Health Care Person</h6></td>
+            <td><h6>Health Care Person:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Health Care Person" name="health_care_person" /></td>
           </tr>
           
           <tr>
-            <td><h6>Contact No</h6></td>
+            <td><h6>Contact No:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Contact No" name="contact_no"/></td>
           </tr>
           
@@ -71,7 +71,7 @@
           
           
           <tr>
-            <td><h6>Date</h6></td>
+            <td><h6>Date:</h6></td>
             <td><input type="date" class="ehrinput2" placeholder="YYYY-MM-DD" name="date"/></td>
           </tr>
           

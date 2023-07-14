@@ -41,29 +41,29 @@
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
         
         <tr>
-            <td><h6>Patient_id</h6></td>
+            <td><h6>Patient ID:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Patient_id"  name="p_id" /></textarea></td>
           </tr>
           
           
           <tr>
-            <td><h6>Current Medication</h6></td>
+            <td><h6>Current Medication:</h6></td>
             <td><textarea class="ehrinput3" placeholder="YES/NO"  name="current_medication" /></textarea></td>
           </tr>
           
           <tr>
-            <td><h6>Medication Name</h6></td>
+            <td><h6>Medication Name:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Medication Name"  name="medication_name" /></textarea></td>
           </tr>
           
           
           <tr>
-            <td><h6>Drug Code</h6></td>
+            <td><h6>Drug Code:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Drug Code" name="drug_code" /></textarea></td>
           </tr>
           
           <tr>
-            <td><h6>Strength</h6></td>
+            <td><h6>Strength:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Strength" name="strength"/></textarea></td>
           </tr>
           
@@ -71,19 +71,19 @@
           
           
           <tr>
-            <td><h6>Dose</h6></td>
+            <td><h6>Dose:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Dose" name="dose"/></textarea></td>
           </tr>
           
           
           <tr>
-            <td><h6>Route</h6></td>
+            <td><h6>Route:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Route" name="route"/></textarea></td>
           </tr>
           
           
           <tr>
-            <td><h6>Frequency</h6></td>
+            <td><h6>Frequency:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Frequency" name="frequency" /></textarea></td>
           </tr>
           

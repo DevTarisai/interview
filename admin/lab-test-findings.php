@@ -39,38 +39,38 @@
          <form action="lab_test_findings_scripts.php" method="post" enctype="multipart/form-data" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
           <tr>
-            <td><h6>Patient Id</h6></td>
+            <td><h6>Patient ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Patient Id" name= "patient_id" /></td>
           </tr>
           <tr>
-            <td><h6>Report Name</h6></td>
+            <td><h6>Report Name:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Report Name" name= "report_name" /></td>
           </tr>
 
            <tr>
-            <td><h6>Lab Test</h6></td>
+            <td><h6>Lab Test:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Lab Test" name= "test" /></td>
           </tr>
            <tr>
-            <td><h6>Lab Test Id</h6></td>
+            <td><h6>Lab Test ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Lab Test Id" name= "lab_test_id" /></td>
           </tr>
            
            <tr>
-            <td><h6>Lab Address</h6></td>
+            <td><h6>Lab Address:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Lab Address" name= "lab_address" /></td>
           </tr>
           <tr>
-            <td><h6>Test Result</h6></td>
+            <td><h6>Test Result:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Test Result" name= "test_result" /></td>
           </tr>
           <tr>
-            <td><h6>Lab Report</h6></td>
+            <td><h6>Lab Report:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Lab Finding Report" name= "lab_report" /></td>
           </tr>
 
           <tr>
-            <td><h6>Lab Finding Image</h6></td>
+            <td><h6>Lab Finding Image:</h6></td>
             <td><input type="file" class="ehrinput2" placeholder="Lab Finding Image" name= "lab_find_image" /></td>
           </tr>
 

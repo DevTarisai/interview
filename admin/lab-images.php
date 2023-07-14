@@ -38,16 +38,16 @@
          <form action="lab_images_script.php" method="post" enctype="multipart/form-data" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
          <tr>
-            <td><h6>Patient ID</h6></td>
+            <td><h6>Patient ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Patient ID" name="patient_id" /></td>
           </tr>
   
            <tr>
-            <td><h6>File Name</h6></td>
+            <td><h6>File Name:</h6></td>
             <td><input type="file" class="ehrinput2" placeholder="File Name" name="picture" /></td>
           </tr>
            <tr>
-            <td><h6>Report Test</h6></td>
+            <td><h6>Report Test:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Report Test" name="report_text" /></td>
           </tr>
           
