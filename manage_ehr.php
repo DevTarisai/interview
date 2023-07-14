@@ -187,19 +187,19 @@ $imm_name = mysql_result($result,$i,"immunization_name");
 		<span class="patient-inspan">Medical AID</span>
         <table border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td><h6>Insurance Status:</h6></td>
+            <td><h6>Medical AID Status:</h6></td>
             <td><p>: <?php echo" $insurance_status "; ?></p></td>
           </tr>
           <tr>
-             <td><h6>Insurance ID:</h6></td>
+             <td><h6>Medical AID ID:</h6></td>
             <td><p>: <?php echo" $insurance_id "; ?></p></td>
           </tr>
           <tr>
-              <td><h6>Insurance Company:</h6></td>
+              <td><h6>Medical AID Company:</h6></td>
             <td><p>: <?php echo" $insurance_company ";?></p></td>
           </tr>
           <tr>
-              <td><h6>Insurance Amount:</h6></td>
+              <td><h6>Medical AID Amount:</h6></td>
             <td><p>: <?php echo" $insurance_amount ";?></p></td>
           </tr>
           
@@ -235,7 +235,7 @@ $imm_name = mysql_result($result,$i,"immunization_name");
         
 
          <tr>
-             <td><h6>Name:</h6></td>
+             <td><h6>Full Name(s):</h6></td>
             <td><p>: <?php echo" $name "; ?></p></td>
           </tr>  
 
