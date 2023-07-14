@@ -41,15 +41,15 @@
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
           
            <tr>
-            <td><h6>Immunization Name</h6></td>
+            <td><h6>Immunisation Name:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Immunisation Name" name="immunization_name" /></td>
           </tr>
            <tr>
-            <td><h6>Given Date</h6></td>
+            <td><h6>Given Date:</h6></td>
             <td><input type="date" class="ehrinput4" name="given_date"/></td>
           </tr>
           <tr>
-            <td><h6>Due Date</h6></td>
+            <td><h6>Due Date:</h6></td>
             <td><input type="date" class="ehrinput4" name="due_date"/></td>
           </tr>
          
