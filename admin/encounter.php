@@ -39,55 +39,55 @@
         <form action="encounter_script.php" method="post" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
                     <tr>
-            <td><h6>Episode Type</h6></td>
+            <td><h6>Episode Type:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Episode Type" name="episode_type" /></td>
           </tr>
           
           <tr>
-            <td><h6>Episode Number</h6></td>
+            <td><h6>Episode Number:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Episode Number" name="episode_number" /></td>
           </tr>
           
           <tr>
-            <td><h6>Encounter Type</h6></td>
+            <td><h6>Encounter Type:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Encounter Type" name="encounter_type" /></td>
           </tr>
           
           <tr>
-            <td><h6>Encounter Number</h6></td>
+            <td><h6>Encounter Number:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Encounter Number" name="encounter_number" /></td>
           </tr>
           
           <tr>
-            <td><h6>Encounter Date & Time</h6></td>
+            <td><h6>Encounter Date & Time:</h6></td>
             <td><input type="date" class="ehrinput4" placeholder="" name="encounter_date_and_time" /></td>
           </tr>
           
           <tr>
-            <td><h6>Reason for Visit</h6></td>
+            <td><h6>Reason for Visit:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Reason for Visit" name="reason_for_visit" /></td>
           </tr>
           
           <tr>
-            <td><h6>Present History</h6></td>
+            <td><h6>Present History:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Present History" name="" /></textarea></td>
           </tr>
           <tr>
-            <td><h6>Past History</h6></td>
+            <td><h6>Past History:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Past History" name="" /></textarea></td>
           </tr>
           
           <tr>
-            <td><h6>Personal History</h6></td>
+            <td><h6>Personal History:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Personal History" name="" /></textarea></td>
           </tr>
           
           <tr>
-            <td><h6>Family History</h6></td>
+            <td><h6>Family History:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Family History" name="" /></td>
           </tr>
           <tr>
-            <td><h6>Menstrual & Obstetric History</h6></td>
+            <td><h6>Menstrual & Obstetric History:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Menstrual & Obstetric History" name="" /></textarea>
             </td>
           </tr>

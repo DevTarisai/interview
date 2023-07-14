@@ -46,21 +46,17 @@
           </tr>
 
           <tr>
-            <td><h6>Emergency 
-Contact Person 
-Name</h6></td>
+            <td><h6>Emergency Contact Person Name:</h6></td>
             <td><span class="ehrinputname"><input type="text" class="ehrinput" placeholder="First Name" name="emergency_contact_person_fname"  /></span>
         		<span class="ehrinputname2"><input type="text" class="ehrinput" placeholder="Last Name" name="emergency_contact_person_lname" /></span></td>
           </tr>
           <tr>
-            <td><h6>Emergency 
-Contact Person 
-Relationship</h6></td>
+            <td><h6>Emergency Contact Person Relationship:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Emergency Contact Person Relationship" name="emergency_contact_person_relationship" /></td>
           </tr>
 
           <tr>
-            <td><h6>Emergency Contact Person Address Type</h6></td>
+            <td><h6>Emergency Contact Person Address Type:</h6></td>
            
             <td><select class="ehrinput4" name="emergency_contact_person_address_type">
                 <option>Current Address</option>
@@ -71,22 +67,22 @@ Relationship</h6></td>
           </tr>
 
           <tr>
-            <td><h6>Emergency Contact Person Address Line 1</h6></td>
+            <td><h6>Emergency Contact Person Address Line 1:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Emergency Contact Person Address Line 1" name="emergency_contact_person_address_line1"  /></textarea></td>
           </tr>
           <tr>
-            <td><h6>Emergency Contact Person Address Line 2</h6></td>
+            <td><h6>Emergency Contact Person Address Line 2:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Emergency Contact Person Address Line 2" name="emergency_contact_person_address_line2"  /></textarea></td>
           </tr>
           <tr>
-            <td><h6>Emergency Contact Person City/Town/Village/ Police Station</h6></td>
+            <td><h6>Emergency Contact Person City / Town:</h6></td>
             <td><textarea class="ehrinput3" placeholder="Contact Person City/Town/Village/ Police" name="emergency_contact_person_city"  /></textarea></td>
           </tr>
           
           <tr>
             <td><h6>Emergency 
 Contact Person 
-Province</h6></td>
+Province:</h6></td>
             <td><select class="ehrinput4" name="emergency_contact_person_district" >
             <option>Bulawayo</option>
                     <option>Harare</option>
@@ -102,7 +98,7 @@ Province</h6></td>
             </select></td>
           </tr>
           <tr>
-            <td><h6>Emergency Contact Person Province</h6></td>
+            <td><h6>Emergency Contact Person Province:</h6></td>
             <td><select class="ehrinput4" name="emergency_contact_person_state" >
             <option>Bulawayo</option>
                     <option>Harare</option>
@@ -118,11 +114,11 @@ Province</h6></td>
                  </select></td>
           </tr>
           <tr>
-            <td><h6>Emergency Contact Person Pin Code</h6></td>
+            <td><h6>Emergency Contact Person Pin Code:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Emergency Contact Person Pin Code" name="emergency_contact_person_pin_code"  /></td>
           </tr>
           <tr>
-            <td><h6>Emergency Contact Person Country Code</h6></td>
+            <td><h6>Emergency Contact Person Country Code:</h6></td>
             <td><select class="ehrinput4" name="emergency_contact_person_country_code" >
             		<option>+263</option>
                     <option>+27</option>
