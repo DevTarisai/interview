@@ -40,10 +40,10 @@
             				
             				
                     		
-                    		<h3>Serving</h3>   
-                            <h1>your health Records </h1>
+                    		<h3>Zimttech</h3>   
+                            <h1>Belgravia, Harare </h1>
                             
-                            <h3>with excellence!</h3>
+                            <h3>Zimbabwe!</h3>
 
 
                             
@@ -69,7 +69,7 @@
 
 
 <div class="ehrsystem">
-		<h3>EHR is the most advanced EHR designed for YOU that works for the EHR system</h3>
+		<h3>This is the most advanced Zimttech system designed for the health sector</h3>
         <p>PHR-Personal Health Record, is a health record where health data and information related to the care of a patient is maintained by the patient</p>
         <div class="ehrsystem-1">
         	<img src="images/ehrsys-1.png" width="175" />
@@ -215,7 +215,7 @@ Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet ero
 
 <div class="hhelpbg">
 		<h3>How Can We Help?</h3>
-        <h1>(800) 23456789</h1>
+        <h1>0776690529</h1>
 </div>
 
 
