@@ -39,23 +39,23 @@
          <form action="diat_chart_script.php" method="post" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
            <tr>
-            <td><h6>Patient Id</h6></td>
+            <td><h6>Patient ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Patient Id" name="patient_id" /></td>
           </tr>
           
            <tr>
-            <td><h6>Diat Chart</h6></td>
-            <td><input type="text" class="ehrinput2" placeholder="Diat Chart" name="diat_chart" /></td>
+            <td><h6>Diet Chart:</h6></td>
+            <td><input type="text" class="ehrinput2" placeholder="Diet Chart" name="diat_chart" /></td>
           </tr>
            
-            <td><h6>Date</h6></td>
+            <td><h6>Date:</h6></td>
             <td><input type="date" class="ehrinput2" placeholder="Date " name="date" /></td>
           </tr>
 
 
            </tr>
            
-            <td><h6>Life Style Change</h6></td>
+            <td><h6>Life Style Change:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Date " name="life_style_change" /></td>
           </tr>
            

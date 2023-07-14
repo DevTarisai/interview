@@ -82,21 +82,21 @@
             </select></td>
           </tr>
            <tr>
-            <td><h6>Care Provider Province</h6></td>
+            <td><h6>Care Provider Province:</h6></td>
             <td><select class="ehrinput4" name="care_provider_state">
             		<option>Harare</option>
                  </select></td>
           </tr>
            <tr>
-            <td><h6>Care Provider Pin Code</h6></td>
+            <td><h6>Care Provider Pin Code:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Care Provider Pin Code" name="care_provider_pin_code" /></td>
           </tr>
            <tr>
-            <td><h6>Care Provider Country Code</h6></td>
+            <td><h6>Care Provider Country Code:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Care Provider Country Code" name="care_provider_country_code" /></td>
           </tr>
            <tr>
-            <td><h6>Care Provider Phone Type</h6></td>
+            <td><h6>Care Provider Phone Type:</h6></td>
             <td><select class="ehrinput4"  name="care_provider_phone_type">
             		<option>Mobile</option>
                     <option>Landline</option>
@@ -104,11 +104,11 @@
             
           </tr>
            <tr>
-            <td><h6>Care Provider Phone Number</h6></td>
+            <td><h6>Care Provider Phone Number:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Care Provider Phone Number" name="care_provider_phone_number"/></td>
           </tr> 
           <tr>
-            <td><h6>Care Provider Email ID</h6></td>
+            <td><h6>Care Provider Email ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Care Provider Email ID" name="care_provider_email_id"/></td>
           </tr>
           <tr>
