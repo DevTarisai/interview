@@ -39,25 +39,25 @@
          <form action="surgery_script.php" method="post" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
            <tr>
-            <td><h6>Patient Id</h6></td>
+            <td><h6>Patient ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Patient Id" name="patient_id" /></td>
           </tr>
           
            <tr>
-            <td><h6>Hospital Id</h6></td>
+            <td><h6>Hospital ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Hospital Id" name="hos_id" /></td>
           </tr>
            <tr>
-            <td><h6> Type of Surgery</h6></td>
+            <td><h6> Type of Surgery:</h6></td>
             <td><textarea class="ehrinput2" placeholder="Type of Surgery" name="surgery_type" /></textarea></td>
           </tr>
            <tr>
-            <td><h6>Description</h6></td>
+            <td><h6>Description:</h6></td>
             <td><textarea class="ehrinput2" placeholder="Description" name="surgery_description" /></textarea></td>
           </tr>
            
            <tr>
-            <td><h6>Date of Surgery</h6></td>
+            <td><h6>Date of Surgery:</h6></td>
             <td><input type="date" class="ehrinput2" placeholder="Date of Surgery" name="surgery_date" /></td>
           </tr>
            

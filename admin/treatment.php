@@ -40,18 +40,18 @@
          <form action="treatment_script.php" method="post" >
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
           <tr>
-            <td><h6>Treatment Id</h6></td>
+            <td><h6>Treatment ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Treatment Id" name="treatment_id" /></td>
           </tr>
           
           
           <tr>
-            <td><h6>Treatment Plan Investigations</h6></td>
+            <td><h6>Treatment Plan Investigations:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Treatment Plan Investigations" name="treatment_plan_investigations" /></td>
           </tr>
           
           <tr>
-            <td><h6>Treatment Plan Medication</h6></td>
+            <td><h6>Treatment Plan Medication:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Treatment Plan Medication" name="treatment_plan_medication" /></td>
           </tr>
           

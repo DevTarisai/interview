@@ -50,17 +50,17 @@ $connection = db_connect();
         <form action="prescription_script.php" method="post" enctype="multipart/form-data">
         <table border="0" cellspacing="0" cellpadding="0" width="100%">
                     <tr>
-            <td><h6>Patient Id</h6></td>
+            <td><h6>Patient ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Patient Id" name="patient_id" /></td>
           </tr>
           
           <tr>
-            <td><h6>Prescription Id</h6></td>
+            <td><h6>Prescription ID:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Prescription Id" name="prescription_id" /></td>
           </tr>
           
           <tr>
-            <td><h6>Health Care Provider</h6></td>
+            <td><h6>Health Care Provider:</h6></td>
             <td><select class="ehrinput4" placeholder="Health Care Provider" name="health_care_provider">
             <?php
              $sql="select care_provider_name from care_provider";
@@ -85,27 +85,27 @@ $connection = db_connect();
           </tr>
         
           <tr>
-            <td><h6>Diagnosis</h6></td>
+            <td><h6>Diagnosis:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Diagnosis" name="diagnosis" /></td>
           </tr>
         
   
           <tr>
-            <td><h6>Vital</h6></td>
+            <td><h6>Vital:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Vital " name="vital" /></textarea></td><td><a href="pulse-rate.php">Pulse Rate</td><td><a href="temperature.php">Temperature</td>&nbsp;&nbsp;&nbsp;<td><a href="blood_pressure.php">  BP</td>
           </tr>
 
           <tr>
-            <td><h6>Date</h6></td>
+            <td><h6>Date:</h6></td>
             <td><input type="date" class="ehrinput4" placeholder="date" name="date" /></td>
           </tr>
           <tr>
-            <td><h6>Reason For Visit</h6></td>
+            <td><h6>Reason For Visiting:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Reason For Visit" name= "reason_for_visit" /></td>
           </tr>
 
           <tr>
-            <td><h6>Prescription Image</h6></td>
+            <td><h6>Prescription Image:</h6></td>
             <td><input type="file"  placeholder="Prescription Image" name= "prescription_image" /></td>
           </tr>
         
