@@ -68,7 +68,7 @@
            
            
            <tr>
-            <td><h6>Discharg Summary:</h6></td>
+            <td><h6>Discharge Summary:</h6></td>
             <td><input type="text" class="ehrinput2" placeholder="Discharge Summary" name="discharge_summery"/></td>
           </tr> 
           <tr>
