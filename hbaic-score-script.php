@@ -5,7 +5,7 @@ $connection = db_connect();
 
 	if ( ! $connection ) 
         {
-		print( "Cannot connect to the database" );
+		print( "Cannot connect to the database." );
 		exit;
 	}
 //$lab_result_id = $_POST['lab_result_id'];
